@@ -1,3 +1,3 @@
-# hello-world
+# hello-uranus
 
 Greetings fellow aliens!!!
